@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pageMargin">60dp</dimen>
+    <dimen name="offset">120dp</dimen>
+    <dimen name="pageMarginAndOffset">154dp</dimen>
+
+
+    <dimen name="pageMargin2">20dp</dimen>
+    <dimen name="offset2">30dp</dimen>
+    <dimen name="pageMarginAndOffset2">50dp</dimen>
+</resources>
